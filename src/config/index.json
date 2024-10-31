@@ -1,0 +1,66 @@
+{
+  "company": {
+    "name": "Asociatia Sf. Ioan",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Despre noi",
+      "href": "despre-noi"
+    }
+  ],
+
+  "doneaza": "Donează",
+  "doneaza-link": "",
+
+  "mainHero": {
+    "title": "Asociația ",
+    "subtitle": "Sfântul Ioan cel Nou de la Suceava",
+    "description": "Asociația Sfântul Ioan cel Nou de la Suceava este un centru de îngrijire pentru vârstnici dedicat oferirii de sprijin și asistență persoanelor în etate, promovând demnitatea și respectul față de fiecare beneficiar.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    }
+  },
+  "product": {
+    "title": "Ceva text aici schimba",
+    "items": [
+      {
+        "title": "A plug n play template",
+        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "img": "/assets/images/a.jpg"
+      },
+      {
+        "title": "Make it your own!",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/a.jpg"
+      }
+    ]
+  },
+
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": ""
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": ""
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": ""
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": ""
+      }
+    ]
+  }
+}
