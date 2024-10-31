@@ -9,7 +9,7 @@ function useOnScreen(
   const [isIntersecting, setIntersecting] = useState(false);
 
   useEffect(() => {
-    let currentRef: any = null;
+    let currentRef = null;
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry?.isIntersecting) setIntersecting(entry?.isIntersecting);
