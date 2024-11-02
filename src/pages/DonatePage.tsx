@@ -6,7 +6,7 @@ import LazyShow from '../components/LazyShow';
 import Cards from '../sections/Cards';
 import DonateButtons from '../sections/DonateComponents';
 import TitleDescaription from '../sections/TitleDescription';
-
+//
 const DonatePage = () => {
   return (
     <div className="bg-lightAccent">
